@@ -1,0 +1,471 @@
+{
+    "characterId": "012",
+    "characterName": "G線上のアリア",
+    "voices": [
+        {
+            "category": "musicart",
+            "files": [
+                {
+                    "name": "Voice_musicart_13 [1]",
+                    "title": "musicart_13_battle_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [2]",
+                    "title": "musicart_13_battle_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [3]",
+                    "title": "musicart_13_battle_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [4]",
+                    "title": "musicart_13_battle_004"
+                },
+                {
+                    "name": "Voice_musicart_13 [5]",
+                    "title": "musicart_13_battle_005"
+                },
+                {
+                    "name": "Voice_musicart_13 [6]",
+                    "title": "musicart_13_battle_006"
+                },
+                {
+                    "name": "Voice_musicart_13 [7]",
+                    "title": "musicart_13_battle_007"
+                },
+                {
+                    "name": "Voice_musicart_13 [8]",
+                    "title": "musicart_13_battle_008"
+                },
+                {
+                    "name": "Voice_musicart_13 [9]",
+                    "title": "musicart_13_battle_009"
+                },
+                {
+                    "name": "Voice_musicart_13 [10]",
+                    "title": "musicart_13_battle_010"
+                },
+                {
+                    "name": "Voice_musicart_13 [11]",
+                    "title": "musicart_13_battle_011"
+                },
+                {
+                    "name": "Voice_musicart_13 [12]",
+                    "title": "musicart_13_battle_012"
+                },
+                {
+                    "name": "Voice_musicart_13 [13]",
+                    "title": "musicart_13_battle_013"
+                },
+                {
+                    "name": "Voice_musicart_13 [14]",
+                    "title": "musicart_13_battle_016"
+                },
+                {
+                    "name": "Voice_musicart_13 [15]",
+                    "title": "musicart_13_battle_017"
+                },
+                {
+                    "name": "Voice_musicart_13 [16]",
+                    "title": "musicart_13_battle_018"
+                },
+                {
+                    "name": "Voice_musicart_13 [17]",
+                    "title": "musicart_13_battle_019"
+                },
+                {
+                    "name": "Voice_musicart_13 [18]",
+                    "title": "musicart_13_battle_020"
+                },
+                {
+                    "name": "Voice_musicart_13 [19]",
+                    "title": "musicart_13_battle_021"
+                },
+                {
+                    "name": "Voice_musicart_13 [20]",
+                    "title": "musicart_13_battle_022"
+                },
+                {
+                    "name": "Voice_musicart_13 [21]",
+                    "title": "musicart_13_battle_023"
+                },
+                {
+                    "name": "Voice_musicart_13 [22]",
+                    "title": "musicart_13_battle_024"
+                },
+                {
+                    "name": "Voice_musicart_13 [23]",
+                    "title": "musicart_13_battle_025"
+                },
+                {
+                    "name": "Voice_musicart_13 [24]",
+                    "title": "musicart_13_battle_026"
+                },
+                {
+                    "name": "Voice_musicart_13 [25]",
+                    "title": "musicart_13_battle_027"
+                },
+                {
+                    "name": "Voice_musicart_13 [26]",
+                    "title": "musicart_13_battle_028"
+                },
+                {
+                    "name": "Voice_musicart_13 [27]",
+                    "title": "musicart_13_battle_030"
+                },
+                {
+                    "name": "Voice_musicart_13 [28]",
+                    "title": "musicart_13_battle_033"
+                },
+                {
+                    "name": "Voice_musicart_13 [29]",
+                    "title": "musicart_13_battle_034"
+                },
+                {
+                    "name": "Voice_musicart_13 [30]",
+                    "title": "musicart_13_battle_035"
+                },
+                {
+                    "name": "Voice_musicart_13 [31]",
+                    "title": "musicart_13_battle_036"
+                },
+                {
+                    "name": "Voice_musicart_13 [32]",
+                    "title": "musicart_13_battle_037"
+                },
+                {
+                    "name": "Voice_musicart_13 [33]",
+                    "title": "musicart_13_battle_038"
+                },
+                {
+                    "name": "Voice_musicart_13 [34]",
+                    "title": "musicart_13_battle_039"
+                },
+                {
+                    "name": "Voice_musicart_13 [35]",
+                    "title": "musicart_13_battle_040"
+                },
+                {
+                    "name": "Voice_musicart_13 [36]",
+                    "title": "musicart_13_battle_041"
+                },
+                {
+                    "name": "Voice_musicart_13 [37]",
+                    "title": "musicart_13_battle_042"
+                },
+                {
+                    "name": "Voice_musicart_13 [38]",
+                    "title": "musicart_13_battle_043"
+                },
+                {
+                    "name": "Voice_musicart_13 [39]",
+                    "title": "musicart_13_battle_044"
+                },
+                {
+                    "name": "Voice_musicart_13 [40]",
+                    "title": "musicart_13_battle_045"
+                },
+                {
+                    "name": "Voice_musicart_13 [41]",
+                    "title": "musicart_13_battleadd_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [42]",
+                    "title": "musicart_13_battleadd_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [43]",
+                    "title": "musicart_13_battleadd_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [44]",
+                    "title": "musicart_13_battlecommand_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [45]",
+                    "title": "musicart_13_battlecommand_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [46]",
+                    "title": "musicart_13_battlecommand_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [47]",
+                    "title": "musicart_13_battlecommand_004"
+                },
+                {
+                    "name": "Voice_musicart_13 [48]",
+                    "title": "musicart_13_battlecommand_005"
+                },
+                {
+                    "name": "Voice_musicart_13 [49]",
+                    "title": "musicart_13_battleresult_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [50]",
+                    "title": "musicart_13_battleresult_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [51]",
+                    "title": "musicart_13_battleresult_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [52]",
+                    "title": "musicart_13_battleresult_004"
+                },
+                {
+                    "name": "Voice_musicart_13 [53]",
+                    "title": "musicart_13_emote_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [54]",
+                    "title": "musicart_13_emote_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [55]",
+                    "title": "musicart_13_emote_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [56]",
+                    "title": "musicart_13_emote_004"
+                },
+                {
+                    "name": "Voice_musicart_13 [57]",
+                    "title": "musicart_13_emote_005"
+                },
+                {
+                    "name": "Voice_musicart_13 [58]",
+                    "title": "musicart_13_emote_006"
+                },
+                {
+                    "name": "Voice_musicart_13 [59]",
+                    "title": "musicart_13_emote_007"
+                },
+                {
+                    "name": "Voice_musicart_13 [60]",
+                    "title": "musicart_13_emote_008"
+                },
+                {
+                    "name": "Voice_musicart_13 [61]",
+                    "title": "musicart_13_emote_009"
+                },
+                {
+                    "name": "Voice_musicart_13 [62]",
+                    "title": "musicart_13_emote_010"
+                },
+                {
+                    "name": "Voice_musicart_13 [63]",
+                    "title": "musicart_13_gacha_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [64]",
+                    "title": "musicart_13_home_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [65]",
+                    "title": "musicart_13_home_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [66]",
+                    "title": "musicart_13_home_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [67]",
+                    "title": "musicart_13_home_004"
+                },
+                {
+                    "name": "Voice_musicart_13 [68]",
+                    "title": "musicart_13_home_005"
+                },
+                {
+                    "name": "Voice_musicart_13 [69]",
+                    "title": "musicart_13_home_006"
+                },
+                {
+                    "name": "Voice_musicart_13 [70]",
+                    "title": "musicart_13_home_007"
+                },
+                {
+                    "name": "Voice_musicart_13 [71]",
+                    "title": "musicart_13_home_008"
+                },
+                {
+                    "name": "Voice_musicart_13 [72]",
+                    "title": "musicart_13_home_009"
+                },
+                {
+                    "name": "Voice_musicart_13 [73]",
+                    "title": "musicart_13_home_010"
+                },
+                {
+                    "name": "Voice_musicart_13 [74]",
+                    "title": "musicart_13_home_011"
+                },
+                {
+                    "name": "Voice_musicart_13 [75]",
+                    "title": "musicart_13_home_012"
+                },
+                {
+                    "name": "Voice_musicart_13 [76]",
+                    "title": "musicart_13_home_013"
+                },
+                {
+                    "name": "Voice_musicart_13 [77]",
+                    "title": "musicart_13_home_014"
+                },
+                {
+                    "name": "Voice_musicart_13 [78]",
+                    "title": "musicart_13_home_015"
+                },
+                {
+                    "name": "Voice_musicart_13 [79]",
+                    "title": "musicart_13_hopequest_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [80]",
+                    "title": "musicart_13_hopequest_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [81]",
+                    "title": "musicart_13_hopequest_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [82]",
+                    "title": "musicart_13_hopequest_004"
+                },
+                {
+                    "name": "Voice_musicart_13 [83]",
+                    "title": "musicart_13_hopequest_005"
+                },
+                {
+                    "name": "Voice_musicart_13 [84]",
+                    "title": "musicart_13_hopequest_006"
+                },
+                {
+                    "name": "Voice_musicart_13 [85]",
+                    "title": "musicart_13_hopequest_007"
+                },
+                {
+                    "name": "Voice_musicart_13 [86]",
+                    "title": "musicart_13_hopequest_008"
+                },
+                {
+                    "name": "Voice_musicart_13 [87]",
+                    "title": "musicart_13_hopequest_009"
+                },
+                {
+                    "name": "Voice_musicart_13 [88]",
+                    "title": "musicart_13_hopequest_010"
+                },
+                {
+                    "name": "Voice_musicart_13 [89]",
+                    "title": "musicart_13_hopequest_011"
+                },
+                {
+                    "name": "Voice_musicart_13 [90]",
+                    "title": "musicart_13_hopequest_012"
+                },
+                {
+                    "name": "Voice_musicart_13 [91]",
+                    "title": "musicart_13_hopequest_013"
+                },
+                {
+                    "name": "Voice_musicart_13 [92]",
+                    "title": "musicart_13_hopequest_014"
+                },
+                {
+                    "name": "Voice_musicart_13 [93]",
+                    "title": "musicart_13_hopequest_015"
+                },
+                {
+                    "name": "Voice_musicart_13 [94]",
+                    "title": "musicart_13_hopequest_016"
+                },
+                {
+                    "name": "Voice_musicart_13 [95]",
+                    "title": "musicart_13_hopequest_017"
+                },
+                {
+                    "name": "Voice_musicart_13 [96]",
+                    "title": "musicart_13_hopequest_018"
+                },
+                {
+                    "name": "Voice_musicart_13 [97]",
+                    "title": "musicart_13_hopequest_019"
+                },
+                {
+                    "name": "Voice_musicart_13 [98]",
+                    "title": "musicart_13_hopequest_020"
+                },
+                {
+                    "name": "Voice_musicart_13 [99]",
+                    "title": "musicart_13_hopequest_021"
+                },
+                {
+                    "name": "Voice_musicart_13 [100]",
+                    "title": "musicart_13_humming_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [101]",
+                    "title": "musicart_13_limitbreak_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [102]",
+                    "title": "musicart_13_limitbreak_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [103]",
+                    "title": "musicart_13_limitbreak_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [104]",
+                    "title": "musicart_13_login_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [105]",
+                    "title": "musicart_13_login_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [106]",
+                    "title": "musicart_13_login_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [107]",
+                    "title": "musicart_13_login_004"
+                },
+                {
+                    "name": "Voice_musicart_13 [108]",
+                    "title": "musicart_13_profile_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [109]",
+                    "title": "musicart_13_relatopnship_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [110]",
+                    "title": "musicart_13_relatopnship_002"
+                },
+                {
+                    "name": "Voice_musicart_13 [111]",
+                    "title": "musicart_13_relatopnship_003"
+                },
+                {
+                    "name": "Voice_musicart_13 [112]",
+                    "title": "musicart_13_relatopnship_004"
+                },
+                {
+                    "name": "Voice_musicart_13 [113]",
+                    "title": "musicart_13_relatopnship_005"
+                },
+                {
+                    "name": "Voice_musicart_13 [114]",
+                    "title": "musicart_13_title_001"
+                },
+                {
+                    "name": "Voice_musicart_13 [115]",
+                    "title": "musicart_13_title_002"
+                }
+            ]
+        }
+    ]
+}
